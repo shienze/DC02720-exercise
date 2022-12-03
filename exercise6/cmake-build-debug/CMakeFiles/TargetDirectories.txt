@@ -1,0 +1,3 @@
+/Users/waitforever/CLionProjects/exercise6/cmake-build-debug/CMakeFiles/exercise6.dir
+/Users/waitforever/CLionProjects/exercise6/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/waitforever/CLionProjects/exercise6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
